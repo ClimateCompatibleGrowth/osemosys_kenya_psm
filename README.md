@@ -2,9 +2,15 @@
 
 This repository houses the OSeMOSYS Kenya Power System Model (PSM), developed within the Climate Compatible Growth (CCG) Project. The model describes Kenya's power sector at a single power plant level and uses a storage representation that differs from OSeMOSYS' standard implementation.
 
-### Citing OSeMOSYS-Kenya PSM 
-If you work on the current version of the PSM, please cite the following paper:
+### Versions
 
+| Version | Date    | DOI                                                                                                        | Description                                                                                   |
+|---------|---------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1.0.0   | 09/2023 | | First release of the model, LCPDP-CCG collaboration. |
+
+### Citing OSeMOSYS-Kenya PSM 
+
+#### Version 0.1.0
 M. Kihara, P. Lubello, A. Millot, M. Akute, J. Kilonzi, M. Kitili, F. Mukuri, B. Kinyanjui, P. Hoseinpoori, A. Hawkes, A. Shivakumar, D. Welsby, S. Pye, Mid- to long-term capacity planning for a reliable power system in Kenya, Energy Strategy Reviews 52 (2024) 101312. https://doi.org/10.1016/j.esr.2024.101312.
 
 BibTeX:
