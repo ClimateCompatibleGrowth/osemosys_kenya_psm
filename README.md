@@ -6,9 +6,9 @@ This repository houses the OSeMOSYS Kenya Power System Model (PSM), developed wi
 
 ### Versions
 
-| Version | Date    | DOI                                                                                                        | Description                                                                                   |
-|---------|---------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.0.0   | 09/2023 | | First release of the model, LCPDP-CCG collaboration. |
+| Version | Date    | DOI                                                                                                         | Description                                                                                   |
+|---------|---------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1.0.0   | 09/2023 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11111018.svg)](https://doi.org/10.5281/zenodo.11111018) | First release of the model, LCPDP-CCG collaboration. |
 
 ### Citing OSeMOSYS-Kenya PSM 
 
