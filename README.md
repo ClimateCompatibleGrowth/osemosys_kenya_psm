@@ -62,5 +62,5 @@ The model files located at ```psm/v1_0_0/...``` and ```psm/v12_0_0/...``` are re
 The data files located at ```psm/v1_0_0/...``` and ```psm/v12_0_0/...``` are released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) license, and the copyright holders, per each version of the model, are listed in the author's list.
 
 ### References
-[1] Sterl, Sebastian, et al. "An all-Africa dataset of energy model “supply regions” for solar photovoltaic and wind power." Scientific Data 9.1 (2022): 664.
+[1] Sterl, Sebastian, et al. "An all-Africa dataset of energy model “supply regions” for solar photovoltaic and wind power." Scientific Data 9.1 (2022): 664. https://doi.org/10.1038/s41597-022-01786-5  
 [2] Howells, Mark, et al. "OSeMOSYS: the open source energy modeling system: an introduction to its ethos, structure and development." Energy Policy 39.10 (2011): 5850-5870. https://doi.org/10.1016/j.enpol.2011.06.033
