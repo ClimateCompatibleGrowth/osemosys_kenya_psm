@@ -2,14 +2,15 @@
 
 # OSeMOSYS Kenya Power System Model
 
-This repository houses the OSeMOSYS Kenya Power System Model (PSM), developed within the Climate Compatible Growth (CCG) Project. The model describes Kenya's power sector at a single power plant level and uses OSeMOSYS' latest storage implementation. Version 2 introduces an improved representation of solar and wind resources based on Model Supply Regions<sup>1</sup>.
+This repository houses various versions of the OSeMOSYS Kenya Power System Model (PSM), developed within the Climate Compatible Growth (CCG) programme. 
 
 ### Versions
 
 | Version | Date    | DOI                                                                                                         | Description                                                                                   |
 |---------|---------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.0.0   | 09/2023 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11111018.svg)](https://doi.org/10.5281/zenodo.11111018) | First release of the model, LCPDP-CCG collaboration. |
-| 2.0.0   | 05/2024 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11165893.svg)](https://doi.org/10.5281/zenodo.11165893) | Model Supply Region (MSR) implementation, LCPDP-CCG-WRI collaboration. |
+| 2.0.0   | 05/2024 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11165893.svg)](https://doi.org/10.5281/zenodo.11165893) | Model Supply Region (MSR) implementation<sup>1</sup>, LCPDP-CCG-WRI collaboration. |
+| 3.0.0   | 03/2026 | | Model version for Robust Decision Making |
 
 ### Citing OSeMOSYS-Kenya PSM 
 
@@ -48,6 +49,8 @@ BibTeX:
       url = {https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(24)00354-9}
       }
 
+#### Version 3.0.0
+Upcoming
 
 ### Acknowledgements
 This material has been produced with support from the Climate Compatible Growth (CCG) programme, which brings together leading research organisations and is led out of the STEER centre, Loughborough University. CCG is funded by UK aid from the UK government. However, the views expressed herein do not necessarily reflect the UK government's official policies.
