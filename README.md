@@ -4,17 +4,17 @@
 
 This repository houses various versions of the OSeMOSYS Kenya Power System Model (PSM), developed within the Climate Compatible Growth (CCG) programme. 
 
-### Versions
+### Releases
 
-| Version | Date    | DOI                                                                                                         | Description                                                                                   |
-|---------|---------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.0.0   | 09/2023 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11111018.svg)](https://doi.org/10.5281/zenodo.11111018) | First release of the model, LCPDP-CCG collaboration. |
-| 2.0.0   | 05/2024 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11165893.svg)](https://doi.org/10.5281/zenodo.11165893) | Model Supply Region (MSR) implementation<sup>1</sup>, LCPDP-CCG-WRI collaboration. |
-| 3.0.0   | 03/2026 | | Model version for Robust Decision Making |
+| Release | Date    | Description                                                                                   |
+|---------|---------|-----------------------------------------------------------------------------------------------|
+| 1.0.0   | 09/2023 | First release of the model, LCPDP-CCG collaboration. |
+| 2.0.0   | 05/2024 | Model Supply Region (MSR) implementation<sup>1</sup>, LCPDP-CCG-WRI collaboration. |
+| 3.0.0   | 03/2026 | Model version for Robust Decision Making |
 
 ### Citing OSeMOSYS-Kenya PSM 
 
-#### Version 1.0.0
+#### Release 1.0.0
 M. Kihara, P. Lubello, A. Millot, M. Akute, J. Kilonzi, M. Kitili, F. Mukuri, B. Kinyanjui, P. Hoseinpoori, A. Hawkes, A. Shivakumar, D. Welsby, S. Pye, Mid- to long-term capacity planning for a reliable power system in Kenya, Energy Strategy Reviews 52 (2024) 101312. https://doi.org/10.1016/j.esr.2024.101312.
 
 BibTeX:
@@ -31,7 +31,7 @@ BibTeX:
       url = {https://www.sciencedirect.com/science/article/pii/S2211467X24000191}
       }
 
-#### Version 2.0.0
+#### Release 2.0.0
 A. Millot, P. Lubello, E. M. Tennyson, M. Mutembei, M. Akute, D. Mentis, S. Pye, A. Hawkes, S. Sterl, The map behind the roadmap — Introducing a geospatial energy model for utility-scale solar and wind power buildout in Kenya,
 Cell Reports Sustainability 1 (2024) 100222. https://doi.org/10.1016/j.crsus.2024.100222.
 
@@ -49,11 +49,11 @@ BibTeX:
       url = {https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(24)00354-9}
       }
 
-#### Version 3.0.0
+#### Release 3.0.0
 Upcoming
 
 ### Acknowledgements
-This material has been produced with support from the Climate Compatible Growth (CCG) programme, which brings together leading research organisations and is led out of the STEER centre, Loughborough University. CCG is funded by UK aid from the UK government. However, the views expressed herein do not necessarily reflect the UK government's official policies.
+This material has been produced with support from the Climate Compatible Growth (CCG) programme. CCG is funded by UK aid from the UK government. However, the views expressed herein do not necessarily reflect the UK government's official policies.
 
 ### Licenses
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/ClimateCompatibleGrowth/osemosys_kenya?tab=Apache-2.0-1-ov-file#readme)
